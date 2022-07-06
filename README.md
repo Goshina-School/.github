@@ -1,0 +1,2 @@
+# .github
+goshina school
